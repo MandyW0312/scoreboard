@@ -9,8 +9,8 @@ html {
 body {
   margin: 0;
   min-height: 100%;
-  background-color: #f1e6eb;
-  color: #2b303a;
+  background-color: #002868;
+  color: #ffffff;
 }
 
 h1 {
@@ -27,7 +27,7 @@ main {
 
 section {
   min-width: 20rem;
-  border: thin solid #7c7c7c;
+  border: thin solid white;
   border-radius: 0.3rem;
   margin-bottom: 3rem;
 
@@ -62,9 +62,9 @@ fieldset i {
 }
 
 fieldset i.add {
-  color: green;
+  color: #bfc9d9;
 }
 
 fieldset i.subtract {
-  color: #f64545;
+  color: #8094b4;
 }
