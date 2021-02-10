@@ -68,3 +68,11 @@ fieldset i.add {
 fieldset i.subtract {
   color: #8094b4;
 }
+
+section.team2 h3.taken {
+  cursor: not-allowed;
+}
+
+section.team2 h3.not-allowed-click {
+  background-color: red;
+}
